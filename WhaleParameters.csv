@@ -18,7 +18,7 @@ tag,flukeing thrust during mout opening,Fthrust,Fthrust,N,4000,4000,4000,4000,40
 Potvin et al 2012,reaction constant (mouth opening),kopen/kclose,Kopen__Kclose,,1.26,1.26,1.26,1.26,1.26,1.26,1.26,1.26,1.26,,,,
 ,density of seawater,?w,Dwater, kg/m3,1025,1025,1025,1025,1025,1025,1025,1025,1025,,,,
 ,simulation time increment,dt,dt,s,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,,,,
-,maximum gape angle,?gapemax,THETAgape, °,78,78,78,78,78,78,78,78,78,,,,
+,maximum gape angle,?gapemax,THETAgape, Â°,78,78,78,78,78,78,78,78,78,,,,
 ,"Apparent (or ""added"") mass coefficent",kam,Kam,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,,,,
 ,reaction constant (mouth opening),kopen,Kopen,,10,10,10,10,10,10,10,10,10,,,,
 ,reaction constant (mouth closing),kclose,Kclose,,10,10,10,10,10,10,10,10,10,,,,
