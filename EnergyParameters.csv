@@ -1,0 +1,10 @@
+Species	Year	Location	SpeciesYearLocation	Wet_mass_g	Length_mm	Energy_kJ.g	n
+Herring	2013	Tenkaee	Herring 2013 Tenakee	117.23	217	5.4	9
+Herring	2014	Seymour	Herring 2014 Seymour	88.8	201.83	5.76	6
+Herring	2014	Kasnyku	Herring 2014 Kasnyku	44.07	196	6.61	3
+Krill	2012	Sitka	Krill 2012 Sitka	0.111577599	21.5	3.8	4 composite (energy)
+Krill	2014	Seymour	Krill 2014 Seymour	0.071510267	17.99	2.94	2 composite (energy); 5 lengths
+Chum	2014	Kasnyku	Chum 2014 Kasnyku	1.6	57.69	4.29	36
+Chum	2014	Takatz	Chum 2014 Takatz	3.38	66.17	4.27	179
+Coho	2014	Kasnyku	Coho 2014 Kasnyku	22.03	133.83	6.28	23
+Coho	2014	Kasnyku	Coho 2014 Kasnyku	20.57	126.09	4.84	11
