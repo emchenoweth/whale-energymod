@@ -446,7 +446,7 @@ Energy_gain.nodf<-function(Vp = NA, Vp.sd = NA, Ddetect = NA, Ddetect.sd= NA, as
 }
 
 ##Read inputs##
-var<-read.csv("Chapter2Model2.csv")
+var<-read.csv("WhaleParameters.csv")
 
 EnergyParameters<-read.csv("Chapter3ModParValues.csv")
 EnergyParameters$Prey<-as.character(EnergyParameters$Prey)
