@@ -1,0 +1,14 @@
+,group,depth,species,patch.energy.density,prop.captured--no whale behavior,prop.captured,gross.energy.gain_lunge,lunge.rate,metabolic.costs_lunge,metabolic.costs_min,net.energy.gain_lunge,net.energy.gain_min
+HerringKB_surface,other,shallow,Herring,3330,0.064,0.11,4162,0.18,807,1521,2759,-772
+HerringKB_subsurface,other,subsurface,Herring,3330,0.064,0.06,7631,0.18,1403,1306,6228,68
+HerringTI_surface,other,shallow,Herring,820,0.038,0.08,1196,0.35,738,1404,458,-985
+HerringTI_subsurface,other,subsurface,Herring,820,0.038,0.07,1367,0.23,1238,1325,129,-1011
+HerringTI_group surface,large group,shallow,Herring,820,0.038,1,17082,0.12,1247,1600,15835,450
+HerringSC_surface,other,shallow,Herring,405,0.057,0.08,675,0.17,717,1622,-763,-1507
+HerringSC_subsurface,other,subsurface,Herring,405,0.057,0.05,422,0.17,1460,1290,-1016,-1218
+KrillSS,other,subsurface,Krill,321,0.987,0.99,6620,0.83,923,1808,5697,3687
+ChumKB/TB Late,other,shallow,Chum,267,0.925,0.93,5173,0.53,807,795,4366,1947
+ChumKB Early,other,shallow,Chum,163,0.916,0.94,3192,0.53,807,795,2385,897
+Coho At Release,other,shallow,Coho,41,0.828,0.86,735,0.16,807,528,-72,-410
+KrillSC,other,subsurface,Krill,36,0.986,0.99,742,0.97,1840,2574,-1098,-1854
+Coho After Release,other,shallow,Coho,33,0.82,0.86,591,0.16,807,528,-216,-433
